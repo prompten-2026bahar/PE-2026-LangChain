@@ -54,7 +54,7 @@ struct ContentView: View {
             Spacer()
             statusBadge(title: "Audit", detail: viewModel.analyzeStatus, isActive: viewModel.isAnalyzing)
             statusBadge(title: "Agent", detail: viewModel.healingStatus, isActive: viewModel.isHealing)
-            Button("Analyze") {
+            Button("Analyze Code") {
                 Task { await viewModel.analyze() }
             }
             .disabled(viewModel.isAnalyzing || viewModel.sourceCode.isEmpty)
