@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "get-started/install",
+    "url": "https://docs.langchain.com/oss/python/langchain/install",
+    "path": "langchain-python-source/get-started/install.md"
+  },
+  {
+    "slug": "get-started/quickstart",
+    "url": "https://docs.langchain.com/oss/python/langchain/quickstart",
+    "path": "langchain-python-source/get-started/quickstart.md"
+  },
+  {
+    "slug": "get-started/changelog",
+    "url": "https://docs.langchain.com/oss/python/releases/changelog",
+    "path": "langchain-python-source/get-started/changelog.md"
+  },
+  {
+    "slug": "get-started/philosophy",
+    "url": "https://docs.langchain.com/oss/python/langchain/philosophy",
+    "path": "langchain-python-source/get-started/philosophy.md"
+  },
+  {
+    "slug": "core-components/agents",
+    "url": "https://docs.langchain.com/oss/python/langchain/agents",
+    "path": "langchain-python-source/core-components/agents.md"
+  },
+  {
+    "slug": "core-components/models",
+    "url": "https://docs.langchain.com/oss/python/langchain/models",
+    "path": "langchain-python-source/core-components/models.md"
+  },
+  {
+    "slug": "core-components/messages",
+    "url": "https://docs.langchain.com/oss/python/langchain/messages",
+    "path": "langchain-python-source/core-components/messages.md"
+  },
+  {
+    "slug": "core-components/tools",
+    "url": "https://docs.langchain.com/oss/python/langchain/tools",
+    "path": "langchain-python-source/core-components/tools.md"
+  },
+  {
+    "slug": "core-components/short-term-memory",
+    "url": "https://docs.langchain.com/oss/python/langchain/short-term-memory",
+    "path": "langchain-python-source/core-components/short-term-memory.md"
+  },
+  {
+    "slug": "core-components/overview",
+    "url": "https://docs.langchain.com/oss/python/langchain/overview",
+    "path": "langchain-python-source/core-components/overview.md"
+  },
+  {
+    "slug": "core-components/structured-output",
+    "url": "https://docs.langchain.com/oss/python/langchain/structured-output",
+    "path": "langchain-python-source/core-components/structured-output.md"
+  },
+  {
+    "slug": "middleware/overview",
+    "url": "https://docs.langchain.com/oss/python/langchain/middleware/overview",
+    "path": "langchain-python-source/middleware/overview.md"
+  },
+  {
+    "slug": "middleware/prebuilt-middleware",
+    "url": "https://docs.langchain.com/oss/python/langchain/middleware/built-in",
+    "path": "langchain-python-source/middleware/prebuilt-middleware.md"
+  },
+  {
+    "slug": "middleware/custom-middleware",
+    "url": "https://docs.langchain.com/oss/python/langchain/middleware/custom",
+    "path": "langchain-python-source/middleware/custom-middleware.md"
+  },
+  {
+    "slug": "frontend/overview",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/overview",
+    "path": "langchain-python-source/frontend/overview.md"
+  },
+  {
+    "slug": "frontend/markdown-messages",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/markdown-messages",
+    "path": "langchain-python-source/frontend/markdown-messages.md"
+  },
+  {
+    "slug": "frontend/tool-calling",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/tool-calling",
+    "path": "langchain-python-source/frontend/tool-calling.md"
+  },
+  {
+    "slug": "frontend/human-in-the-loop",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/human-in-the-loop",
+    "path": "langchain-python-source/frontend/human-in-the-loop.md"
+  },
+  {
+    "slug": "frontend/branching-chat",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/branching-chat",
+    "path": "langchain-python-source/frontend/branching-chat.md"
+  },
+  {
+    "slug": "frontend/reasoning-tokens",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/reasoning-tokens",
+    "path": "langchain-python-source/frontend/reasoning-tokens.md"
+  },
+  {
+    "slug": "frontend/structured-output",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/structured-output",
+    "path": "langchain-python-source/frontend/structured-output.md"
+  },
+  {
+    "slug": "frontend/message-queues",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/message-queues",
+    "path": "langchain-python-source/frontend/message-queues.md"
+  },
+  {
+    "slug": "frontend/join-rejoin-streams",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/join-rejoin",
+    "path": "langchain-python-source/frontend/join-rejoin-streams.md"
+  },
+  {
+    "slug": "frontend/time-travel",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/time-travel",
+    "path": "langchain-python-source/frontend/time-travel.md"
+  },
+  {
+    "slug": "frontend/generative-ui",
+    "url": "https://docs.langchain.com/oss/python/langchain/frontend/generative-ui",
+    "path": "langchain-python-source/frontend/generative-ui.md"
+  },
+  {
+    "slug": "advanced-usage/guardrails",
+    "url": "https://docs.langchain.com/oss/python/langchain/guardrails",
+    "path": "langchain-python-source/advanced-usage/guardrails.md"
+  },
+  {
+    "slug": "advanced-usage/runtime",
+    "url": "https://docs.langchain.com/oss/python/langchain/runtime",
+    "path": "langchain-python-source/advanced-usage/runtime.md"
+  },
+  {
+    "slug": "advanced-usage/context-engineering",
+    "url": "https://docs.langchain.com/oss/python/langchain/context-engineering",
+    "path": "langchain-python-source/advanced-usage/context-engineering.md"
+  },
+  {
+    "slug": "advanced-usage/mcp",
+    "url": "https://docs.langchain.com/oss/python/langchain/mcp",
+    "path": "langchain-python-source/advanced-usage/mcp.md"
+  },
+  {
+    "slug": "advanced-usage/human-in-the-loop",
+    "url": "https://docs.langchain.com/oss/python/langchain/human-in-the-loop",
+    "path": "langchain-python-source/advanced-usage/human-in-the-loop.md"
+  },
+  {
+    "slug": "advanced-usage/multi-agent",
+    "url": "https://docs.langchain.com/oss/python/langchain/multi-agent",
+    "path": "langchain-python-source/advanced-usage/multi-agent.md"
+  },
+  {
+    "slug": "advanced-usage/retrieval",
+    "url": "https://docs.langchain.com/oss/python/langchain/retrieval",
+    "path": "langchain-python-source/advanced-usage/retrieval.md"
+  },
+  {
+    "slug": "advanced-usage/long-term-memory",
+    "url": "https://docs.langchain.com/oss/python/langchain/long-term-memory",
+    "path": "langchain-python-source/advanced-usage/long-term-memory.md"
+  }
+]
