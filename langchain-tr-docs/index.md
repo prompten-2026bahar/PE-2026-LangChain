@@ -1,49 +1,63 @@
 # LangChain Python Türkçe Çeviri Dizini
 
-## Get started
+## 1. Get started
 
-- `get-started/install.md`
-- `get-started/quickstart.md`
-- `get-started/changelog.md`
-- `get-started/philosophy.md`
+- `1-get-started/1-install.md`
+- `1-get-started/2-quickstart.md`
+- `1-get-started/3-changelog.md`
+- `1-get-started/4-philosophy.md`
 
-## Core components
+## 2. Core components
 
-- `core-components/agents.md`
-- `core-components/models.md`
-- `core-components/messages.md`
-- `core-components/tools.md`
-- `core-components/short-term-memory.md`
-- `core-components/overview.md`
-- `core-components/structured-output.md`
+- `2-core-components/1-agents.md`
+- `2-core-components/2-models.md`
+- `2-core-components/3-messages.md`
+- `2-core-components/4-tools.md`
+- `2-core-components/5-short-term-memory.md`
+- `2-core-components/6-overview.md`
+- `2-core-components/7-structured-output.md`
 
-## Middleware
+## 3. Middleware
 
-- `middleware/overview.md`
-- `middleware/prebuilt-middleware.md`
-- `middleware/custom-middleware.md`
+- `3-middleware/1-overview.md`
+- `3-middleware/2-prebuilt-middleware.md`
+- `3-middleware/3-custom-middleware.md`
 
-## Frontend
+## 4. Frontend
 
-- `frontend/overview.md`
-- `frontend/markdown-messages.md`
-- `frontend/tool-calling.md`
-- `frontend/human-in-the-loop.md`
-- `frontend/branching-chat.md`
-- `frontend/reasoning-tokens.md`
-- `frontend/structured-output.md`
-- `frontend/message-queues.md`
-- `frontend/join-rejoin-streams.md`
-- `frontend/time-travel.md`
-- `frontend/generative-ui.md`
+- `4-frontend/1-overview.md`
+- `4-frontend/2-markdown-messages.md`
+- `4-frontend/3-tool-calling.md`
+- `4-frontend/4-human-in-the-loop.md`
+- `4-frontend/5-branching-chat.md`
+- `4-frontend/6-reasoning-tokens.md`
+- `4-frontend/7-structured-output.md`
+- `4-frontend/8-message-queues.md`
+- `4-frontend/9-join-rejoin-streams.md`
+- `4-frontend/10-time-travel.md`
+- `4-frontend/11-generative-ui.md`
 
-## Advanced usage
+## 5. Advanced usage
 
-- `advanced-usage/guardrails.md`
-- `advanced-usage/runtime.md`
-- `advanced-usage/context-engineering.md`
-- `advanced-usage/mcp.md`
-- `advanced-usage/human-in-the-loop.md`
-- `advanced-usage/multi-agent.md`
-- `advanced-usage/retrieval.md`
-- `advanced-usage/long-term-memory.md`
+- `5-advanced-usage/1-guardrails.md`
+- `5-advanced-usage/2-runtime.md`
+- `5-advanced-usage/3-context-engineering.md`
+- `5-advanced-usage/4-mcp.md`
+- `5-advanced-usage/5-human-in-the-loop.md`
+- `5-advanced-usage/6-multi-agent.md`
+- `5-advanced-usage/7-retrieval.md`
+- `5-advanced-usage/8-long-term-memory.md`
+
+## 6. Agent development
+
+- `6-agent-development/1-langsmith-studio.md`
+- `6-agent-development/2-test/1-overview.md`
+- `6-agent-development/2-test/2-unit-testing.md`
+- `6-agent-development/2-test/3-integration-testing.md`
+- `6-agent-development/2-test/4-evals.md`
+- `6-agent-development/3-agent-chat-ui.md`
+
+## 7. Deploy with LangSmith
+
+- `7-deploy-with-langsmith/1-deployment.md`
+- `7-deploy-with-langsmith/2-observability.md`
