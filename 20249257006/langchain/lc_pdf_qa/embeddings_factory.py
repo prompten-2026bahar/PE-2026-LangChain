@@ -1,0 +1,16 @@
+from __future__ import annotations
+
+from functools import lru_cache
+
+from langchain_huggingface import HuggingFaceEmbeddings
+
+from lc_pdf_qa.settings import HF_EMBED_MODEL
+
+
+@lru_cache(maxsize=1)
+def get_embeddings() -> HuggingFaceEmbeddings:
+    return HuggingFaceEmbeddings(
+        model_name=HF_EMBED_MODEL,
+        model_kwargs={"device": "cpu"},
+        encode_kwargs={"normalize_embeddings": True},
+    )
